@@ -1,1 +1,2 @@
 Hello World. I'm Learning GIT via The Odin Project
+Now I'm testing the commit comment in VS Code instead of using the -m flag
